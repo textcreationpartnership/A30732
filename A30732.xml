@@ -1,0 +1,307 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached before the right honourable the lord mayor and aldermen and citizens of London at St. Lawrence Jewry on the Feast of St. Michael, 1696 : at the election of the lord mayor for the year ensuing / by Lilly Butler.</title>
+            <author>Butler, Lilly.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A30732</idno>
+            <idno type="STC">Wing B6281</idno>
+            <idno type="STC">ESTC R24759</idno>
+            <idno type="EEBO-CITATION">08482975</idno>
+            <idno type="OCLC">ocm 08482975</idno>
+            <idno type="VID">41376</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A30732)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41376)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1248:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached before the right honourable the lord mayor and aldermen and citizens of London at St. Lawrence Jewry on the Feast of St. Michael, 1696 : at the election of the lord mayor for the year ensuing / by Lilly Butler.</title>
+                  <author>Butler, Lilly.</author>
+               </titleStmt>
+               <extent>27, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Brab. Aylmer,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Half title: Mr. Butler's sermon preach'd before the lord mayor and aldermen, &amp;c. on the Feast of St. Michael, 1696.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Proverbs XXIX, 2 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:41376:1"/>
+            <pb facs="tcp:41376:1" rendition="simple:additions"/>
+            <p> Mr. <hi>BUTLER'S</hi> SERMON Preach'd before the Lord Mayor and Aldermen, <hi>&amp;c.</hi>
+            </p>
+            <p>On the Feaſt of St. <hi>Michael,</hi> 1696.</p>
+         </div>
+         <div type="order_to_print">
+            <pb facs="tcp:41376:2"/>
+            <opener>
+               <signed>Houblon Mayor.</signed>
+               <dateline>
+                  <date>
+                     <hi>Martis</hi> 29 Sept. 1696. <hi>Anno<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> Regni Regis</hi> Willielmi <hi>Tertii</hi> Angliae, <hi>&amp;c. octavo.</hi>
+                  </date>
+               </dateline>
+            </opener>
+            <p>THIS Court doth deſire Mr. <hi>Butler</hi> to Print his Sermon preached before the Right Honourable the Lord Mayor, Aldermen, and Citizens of this City, at the Pariſh-Church of St. <hi>Lawrence Jury,</hi> this Day being the Day of Election of the Lord May<g ref="char:EOLhyphen"/>or of this City for the Year enſu<g ref="char:EOLhyphen"/>ing.</p>
+            <closer>
+               <signed>Goodfellow.</signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:41376:2"/>
+            <p> A SERMON Preached before The Right Honourable <hi>The Lord Mayor and Aldermen,</hi> AND Citizens of <hi>LONDON,</hi> AT <hi>St. Lawrence Iewry,</hi> On the Feaſt of St. <hi>Michael,</hi> 1696.</p>
+            <p>At the Election of the Lord Mayor for the Year enſuing.</p>
+            <p>By <hi>LILLY BUTLER</hi> Miniſter of St. <hi>Mary Aldermanbury.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Brab. Aylmer</hi> at the <hi>Three Pigeons</hi> in <hi>Cornhil,</hi> over againſt the <hi>Royal-Exchange,</hi> 1696.</p>
+            <pb facs="tcp:41376:3"/>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:41376:3"/>
+            <head>
+               <hi>TO THE Right Honourable <hi>Sir John Houblon,</hi> Lord Mayor of the City of</hi> London, <hi>And the Court of Aldermen.</hi>
+            </head>
+            <opener>
+               <salute>MY LORD,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Have obeyed your Order for the printing this Sermon, and the more readily, becauſe it will be a publick Acknowledgment of the Ne<g ref="char:EOLhyphen"/>ceſſity and <g ref="char:V">Ʋ</g>ſefulneſs of Religion, eſpeci<g ref="char:EOLhyphen"/>ally in your own Hearts and Lives, to the good and happy State of the
+<pb facs="tcp:41376:4"/> People committed to your Care and Go<g ref="char:EOLhyphen"/>vernment. A Confeſſion very ſeaſona<g ref="char:EOLhyphen"/>ble and honourable in ſuch an Age as this, wherein ſo little Regard is had to Religion in all our Schemes of Po<g ref="char:EOLhyphen"/>liticks. My particular Obligations to your Lordſhip do alſo deſerve the moſt pub<g ref="char:EOLhyphen"/>lick Acknowledgment.</p>
+            <p>I endeavoured, in this Diſcourſe, to repreſent and inforce the Magiſtrate's Duty with the greateſt Plainneſs and Sincerity, that whilſt I was preach<g ref="char:EOLhyphen"/>ing the Duty of others, I might not be thought to forget my own.</p>
+            <p>May the God of Heaven, <hi>ſtabliſh, ſtrengthen, ſettle you in every good Work,</hi> in a prudent and impartial, a diligent and courageous Execution of thoſe great Offices he hath called you to,
+<pb facs="tcp:41376:4"/> to the Glory of God, the Joy of the People, and your own <hi>double Ho<g ref="char:EOLhyphen"/>nour</hi> both here and hereafter. <hi>This is the hearty Prayer of,</hi>
+            </p>
+            <closer>
+               <salute>My Lord, </salute>
+               <signed>Your Lordſhips moſt obliged and humble Servant, <hi>LILLY BUTLER.</hi>
+               </signed>
+            </closer>
+            <pb facs="tcp:41376:5"/>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="9" facs="tcp:41376:5"/>
+            <epigraph>
+               <bibl>Prov. xxix. 2.</bibl>
+               <q>When the Righteous are in Authority, the People rejoyce.</q>
+            </epigraph>
+            <p>ONE great deſign of <hi>Solomon,</hi> in this Book of <hi>Proverbs,</hi> is to recommend Religion, by de<g ref="char:EOLhyphen"/>claring the excellent fruits, which ſingle perſons and publick Societies might reap from the ſin<g ref="char:EOLhyphen"/>cere practice of it. He tells us, that <hi>length of days are in</hi> 
+               <note place="margin">Prov. iii. 16, 17.</note> 
+               <hi>her right hand, and in her left hand riches and honour; that her ways are ways of pleaſantneſs, and all her paths are peace; that the Throne is eſtabliſhed,</hi> that <hi>a Nation</hi> and a <hi>City are</hi> 
+               <note place="margin">Prov. xvi. 12. Prov. xiv. 34. xi. 11.</note> 
+               <hi>exalted</hi> by it: That it is the Safety, and Honour, and Happineſs of a People: That it doth, in a moſt eminent manner, conduce to the Publick Good, and deſerve a ge<g ref="char:EOLhyphen"/>neral rejoycing, when it adorneth and influenceth the Lives of thoſe that are in Authority. <hi>When the Righteous are in Authority, the People rejoyce.</hi>
+            </p>
+            <p>This is a <hi>Political Aphoriſm</hi> of <hi>Solomon,</hi> a great and mighty Prince, who, better than any <hi>before or after him,</hi> underſtood all the moſt advantageous methods of govern<g ref="char:EOLhyphen"/>ing for the publick good, having <hi>Wiſdom and Knowledge</hi> given him by the ſpecial favour of God, to <hi>judge his Peo<g ref="char:EOLhyphen"/>ple, over whom he had made him King,</hi> 2 Chron. 1. 11.</p>
+            <p>By the <hi>Righteous, Solomon</hi> doth generally mean in this Book of the <hi>Proverbs,</hi> thoſe that are ſo in the moſt com<g ref="char:EOLhyphen"/>prehenſive ſenſe, Religious and good Men, thoſe that <hi>fear God and keep his Commandments.</hi> That theſe are the <hi>Righteous</hi> Men ſpoken of in the <hi>Text</hi> doth farther appear
+<pb n="10" facs="tcp:41376:6"/> from the oppoſition of them to <hi>wicked</hi> Men in general. <hi>When the Righteous are in Authority, the People rejoyce: But when the wicked beareth rule, the People mourn.</hi>
+            </p>
+            <p>
+               <hi>The People rejoyce,</hi> i. e. Then they have great and wor<g ref="char:EOLhyphen"/>thy cauſe of rejoycing; then their condition will be flou<g ref="char:EOLhyphen"/>riſhing and proſperous, and happy. It being very com<g ref="char:EOLhyphen"/>mon, to ſpeak of thoſe things as conſequent in effect, which in reaſon ought to follow.</p>
+            <p>Thus then we may expreſs the meaning of the Propo<g ref="char:EOLhyphen"/>ſition in the <hi>Text. That Religious Magiſtrates do contribute very much to the general Happineſs of a People.</hi> When thoſe that have a lively and vigorous ſenſe of God upon their Minds, and a ſincere regard to his Divine Will, when Men of Conſcience, Integrity, and Religion, when ſuch Men are <hi>in Authority,</hi> they do highly promote the good eſtate of that Society they govern.</p>
+            <p>I ſhall <hi>Firſt,</hi> endeavour to clear the Truth of this Pro<g ref="char:EOLhyphen"/>poſition. And <hi>Secondly,</hi> make ſome ſeaſonable Applica<g ref="char:EOLhyphen"/>tion of it.</p>
+            <p>
+               <hi>Firſt,</hi> I ſhall endeavour to clear the Truth of this Pro<g ref="char:EOLhyphen"/>poſition, as it reſpects ſubordinate Magiſtrates, the Mini<g ref="char:EOLhyphen"/>ſters of Juſtice for God and the King, in which ſenſe it is moſt proper matter for our preſent Conſideration, by ſhewing theſe <hi>Four</hi> things.</p>
+            <p>
+               <hi>First,</hi> That Religious Men in <hi>Authority,</hi> will make Conſcience of performing the proper work of their Office, in the ſeveral parts and exerciſes of it.</p>
+            <p>
+               <hi>Secondly,</hi> That the proper work of the Magiſtrate's Of<g ref="char:EOLhyphen"/>fice, in the ſeveral parts and exerciſes of it, doth highly tend to promote the good and happy State of the People.</p>
+            <pb n="11" facs="tcp:41376:6"/>
+            <p> 
+               <hi>Thirdly,</hi> That Religious Men <hi>in Authority</hi> will perform all the proper exerciſes of their Office, in the moſt advan<g ref="char:EOLhyphen"/>tageous manner for the effectual promoting the publick good and benefit of the People.</p>
+            <p>
+               <hi>Fourthly,</hi> That great Bleſſings are derived upon the People, for the ſake, and by the interceſſion, of Religious Magiſtrates.</p>
+            <p>
+               <hi>Firſt,</hi> I ſhall ſhew that Religious Men <hi>in Authority,</hi> will make Conſcience of performing the proper work of their Office, in the ſeveral parts and exerciſes of it. When a Religious Man, one that truly fears God, comes into any publick Office, he conſidereth it, not only as a Place of Honour or Profit, but alſo as a new Scene of Duty, and therefore preſently ſets himſelf about the ſtudy and per<g ref="char:EOLhyphen"/>formance of it; for he cannot be willingly ignorant or regardleſs of any part of his Duty. He knows that Power and Authority are <hi>Talents</hi> put into his Hands by God, who expects to <hi>receive his own with <g ref="char:V">Ʋ</g>ſury.</hi> He dares not therefore <hi>hide</hi> or bury them, but imployeth and improveth them to thoſe Ends for which he received them; remembring the <hi>account</hi> he muſt <hi>give of his Stew<g ref="char:EOLhyphen"/>ardſhip,</hi> and the fearful doom of the <hi>unprofitable Servant.</hi> He cannot bear the thoughts of Perjury, and therefore cannot ſatisfie himſelf in neglecting any thing, which by ſolemn Oaths he hath obliged himſelf to perform. A Religious Magiſtrate then is a Magiſtrate indeed, he doth not only bear the Name but do the Work of his Office, and that <hi>for Conſcience ſake,</hi> from a moſt ſtrong and laſting Principle. Such Magiſtrates then muſt needs contribute very much to the Happineſs of the People, as will be far<g ref="char:EOLhyphen"/>ther manifeſt, by ſhewing</p>
+            <pb n="12" facs="tcp:41376:7"/>
+            <p> 
+               <hi>Secondly,</hi> That the proper work of the Magiſtrates Office, in the ſeveral parts and exerciſes of it, doth high<g ref="char:EOLhyphen"/>ly tend to promote the good and happy State of the Peo<g ref="char:EOLhyphen"/>ple. They are <hi>Miniſters of God to them for good,</hi> for their good in all reſpects, promoting all their deareſt and great<g ref="char:EOLhyphen"/>eſt Intereſts. There is no ſort of good, but it is the Ma<g ref="char:EOLhyphen"/>giſtrates buſineſs to endeavour to procure; and there is no part of the Magiſtrate's buſineſs, but what tendeth to procure ſome ſort of Good to the People. This will be very evident, if we take a particular view of the ſeveral parts of the Magiſtrate's Office. As,</p>
+            <p>
+               <hi>Firſt,</hi> One part of the Magiſtrate's Office, is to main<g ref="char:EOLhyphen"/>tain their Peoples Property; to ſecure them as far as they can, in the quiet poſſeſſion of their Eſtates; to take care to prevent and puniſh Fraud and Theft, and to oblige thoſe to Reſtitution who are unjuſtly poſſeſt of another Man's Goods or Inheritance; to concern themſelves in a regular defence of thoſe Laws by which the Peoples Pro<g ref="char:EOLhyphen"/>perty is ſecured; that every Man may <hi>eat the labour of his hands,</hi> and reap the Fruits of his Induſtry, and enjoy the Inheritance of his Fathers, and ſit ſecurely <hi>under his own Vine, and under his own Fig-tree,</hi> whilſt <hi>none</hi> are ſuffered to <hi>make him afraid.</hi> And how manifeſtly is the Publick Good advanced by the exerciſe of this part of the Magi<g ref="char:EOLhyphen"/>ſtrate's Office?</p>
+            <p>
+               <hi>Secondly,</hi> Another Part of the Magiſtrate's Office is to maintain all the legal Rights and Privileges, Liberties and Immunities, of the whole Body, and of each Member of the Society; to ſee that no Man do oppreſs his Brother, or uſurp any unjuſt Power or Dominion over him; to ſee that Servants be <hi>faithful and obedient to their Maſters,</hi> and that <hi>Maſters give unto their Servants that which is juſt and equal.</hi> To ſuffer no Man to tranſgreſs the Bounds of his own proper Station, to ſeize upon the Advantages which
+<pb n="13" facs="tcp:41376:7"/> belong to another's Place and Calling, to invade the Of<g ref="char:EOLhyphen"/>fice, or intrude into the Buſineſs of his Neighbour; to watch and conſult, and endeavour, by all lawful Ways, that no Encroachments be made, by any arbitrary or ille<g ref="char:EOLhyphen"/>gal Proceedings, upon the common Privileges of thoſe who are committed to their immediate Care and Govern<g ref="char:EOLhyphen"/>ment. And how beneficial to the People muſt the Exer<g ref="char:EOLhyphen"/>ciſe of this Part alſo of the Magiſtrate's Office be?</p>
+            <p>
+               <hi>Thirdly,</hi> Another Part of the Magiſtrate's Office is to pre<g ref="char:EOLhyphen"/>ſerve their People in Peace; to keep them from private Quarrels and publick Tumults; to compoſe their Diffe<g ref="char:EOLhyphen"/>rences, to allay their Jealouſies, to determine their Con<g ref="char:EOLhyphen"/>troverſies, to reſtrain and puniſh the contentious, to diſ<g ref="char:EOLhyphen"/>countenance all dividing into Factions, and breaking into Parties, and to endeavour, as much as in them lieth, that <hi>under them all</hi> their People <hi>may lead quiet and peaceable Lives:</hi> which muſt be to the great Advantage of the So<g ref="char:EOLhyphen"/>ciety.</p>
+            <p>
+               <hi>Fourthly,</hi> Another Part of the Magiſtrate's Office is to take care of their People's Lives; to defend them againſt the open Aſſaults, and the ſecret Conſpiracies of malicious and cruel Men; to execute all thoſe Laws which are made for the Security of every Man's Perſon; that they may <hi>ſerve God,</hi> and follow the Buſineſs of their ſeveral Callings, <hi>without Fear</hi> or Danger, and <hi>lay themſelves down in Peace and take their reſt,</hi> and, by the Bleſſing of God upon their Endeavours, be <hi>made to dwell in Safety,</hi> which is a farther Advancement of the happy State of a People.</p>
+            <p>
+               <hi>Fifthly.</hi> Another Part of the Magiſtrate's Office is to incourage Induſtry. To provide Work for thoſe that want it, and cannot otherwiſe maintain themſelves and their Families; to puniſh Vagrants and Beggars, and all Managers of ſuch unlawful Games and Sports, as are
+<pb n="14" facs="tcp:41376:8"/> wont to draw Men off from the uſeful Imployment of their Callings, and to lead them into an idle and diſſolute Way of living, whereby they become unprofitable and hurtful Members of a Society. And a careful Perform<g ref="char:EOLhyphen"/>ance of this Part of a Magiſtrate's Duty will highly pro<g ref="char:EOLhyphen"/>mote the Wealth, and therefore alſo the Strength and Glory of a People; for it is <hi>the Hand of the diligent</hi> that <hi>makes</hi> even Cities and Kingdoms <hi>rich.</hi>
+            </p>
+            <p>
+               <hi>Sixthly,</hi> It is another Part of the Magiſtrate's Office to ſuccour and relieve the poor and needy, the diſtreſſed and afflicted Part of the Society. To look to the faithful Ma<g ref="char:EOLhyphen"/>nagement of publick Charities; and to make a legal Pro<g ref="char:EOLhyphen"/>viſion for thoſe that cannot otherwiſe provide for them<g ref="char:EOLhyphen"/>ſelves. To be what <hi>Job</hi> tells us he was, <hi>Eyes to the blind, Feet to the lame, and Fathers to the poor,</hi> Job 29. 15, 16. to give ſeaſonable Succour to the indigent and <hi>fatherleſs, and to him that hath no Helper,</hi> who are the proper Objects of the Magiſtrate's Care and Compaſſion. This alſo is an Imployment which is very ſerviceable to the good of the People.</p>
+            <p>
+               <hi>Seventhly,</hi> It is a principal Part of the Magiſtrate's Of<g ref="char:EOLhyphen"/>fice to preſerve and promote true Religion. To reſtrain Men, by a due Execution of Laws, from corrupting the Doctrine it teacheth, from throwing off the Worſhip it preſcribeth, and tranſgreſſing thoſe Rules it obligeth them to walk by. To ſtop the Mouths of blaſpheming Atheiſts and Infidels; to puniſh the impious Prophaners of God's holy Name and Day: To curb the Inſolence of Luſt and Intemperance; to make the <hi>Sword</hi> which God and the King have put into their Hands <hi>a Terrour to</hi> all ſuch <hi>Evil-doers,</hi> who are the Bane and Plague of a Socie<g ref="char:EOLhyphen"/>ty, and pull down the Judgments of God upon it. To give all the Countenance and Protection they can to Pie<g ref="char:EOLhyphen"/>ty and Virtue, and to be <hi>a Praiſe to them that do well.</hi> To
+<pb n="15" facs="tcp:41376:8"/> beſtow their Favour, and Places, and inferiour Offices, not only for the Sake of Money or Party, but chiefly with regard to Piety and Honeſty and Virtue. To do all they can that it may <hi>go well with the righteous,</hi> for when it doth ſo <hi>Solomon</hi> tells us <hi>the City rejoyceth, Prov.</hi> 11. 10. Theſe are ſome of thoſe Exerciſes which the Office of a Magi<g ref="char:EOLhyphen"/>ſtrate oblige him to; and they do all greatly and mani<g ref="char:EOLhyphen"/>feſtly tend to make a People happy. And the Religious Man, as I have ſhewed, will not, dares not neglect any Part of the Duty of that Place and Relation he is in. When ſuch therefore <hi>are in Authority,</hi> there muſt needs be great Cauſe of <hi>Rejoycing.</hi> For the farther Confirmation of the Truth of this Propoſition, I proceed to ſhew,</p>
+            <p>
+               <hi>Thirdly,</hi> That Religious Men <hi>in Authority</hi> will perform all the proper Exerciſes of their Office, in the moſt ad<g ref="char:EOLhyphen"/>vantagious manner, for the effectual promoting the pub<g ref="char:EOLhyphen"/>lick Good and Benefit of the People. They will perform them moſt prudently, moſt impartially, moſt diligent<g ref="char:EOLhyphen"/>ly, moſt courageouſly, and moſt becomingly, and when they are thus performed they can hardly fail of being ſucceſsful to the making a People happy.</p>
+            <p>
+               <hi>Firſt,</hi> A Religious Man <hi>in Authority</hi> will perform all the Exerciſes of his Office moſt prudently. <hi>The Fear of the Lord,</hi> ſaith <hi>Solomon, is the Inſtruction of Wiſdom.</hi> It diſ<g ref="char:EOLhyphen"/>poſeth <note place="margin">Prov. xv. 33.</note> a Man to do every thing wiſely; it will direct his Thoughts, and ſteer his Judgment, and determine his Choice, to the beſt Methods for the attaining every good End he is concerned for. <hi>The Integrity of the <g ref="char:V">Ʋ</g>pright ſhall guide him, the Righteouſneſs of the Perfect ſhall direct his Way, Prov.</hi> 11. 3, 5. The Religious Man hath a con<g ref="char:EOLhyphen"/>ſtant Regard to that publick Good his Authority was gi<g ref="char:EOLhyphen"/>ven him to advance; and he that keeps his Eye always upon his End, will not eaſily miſs the readieſt Way to it<g ref="char:punc">▪</g> He hath no By-Ends to perplex his Conſultations for the
+<pb n="16" facs="tcp:41376:9"/> People's Good, or to tempt him to ſet aſide any fit or pro<g ref="char:EOLhyphen"/>per means to promote it. He hath no private Affections or Paſſions, or Intereſts, ſo prevalent with him as to hinder his ſeeing what Courſe is beſt to take, or to divert him from the Choice of it. He will be ſure never to purſue his Ends with any unjuſt or diſhoneſt means, or betray the Folly of provoking God for the publick Good. He is ve<g ref="char:EOLhyphen"/>ry humble and modeſt, and therefore will not <hi>lean</hi> too much <hi>to his own <g ref="char:V">Ʋ</g>nderſtanding,</hi> but be always ready to hear and take good Advice. He <hi>acknowledgeth God in all his Ways,</hi> as the beſt Guide and Counſellour, and is continu<g ref="char:EOLhyphen"/>ally <hi>asking</hi> Direction and <hi>Wiſdom</hi> of him who <hi>maketh wiſe the ſimple, guideth the meek in Judgment, and teacheth him</hi> 
+               <note place="margin">Pſal. xxv. 9. ix. 12.</note> 
+               <hi>that feareth the Lord, in the Way that he ſhall chooſe.</hi> Reli<g ref="char:EOLhyphen"/>gion then, better than any thing elſe, will enable a Ma<g ref="char:EOLhyphen"/>giſtrate to diſcharge his Office diſcreetly and wiſely, and therefore moſt effectually for the Good of the People.</p>
+            <p>
+               <hi>Secondly,</hi> A Religious Man <hi>in Authority</hi> will perform all the Exerciſes of his Office moſt impartially. He is a <hi>Fol<g ref="char:EOLhyphen"/>lower of God</hi> in all his Ways, and particularly in the Ex<g ref="char:EOLhyphen"/>erciſe of that Authority he hath committed to him, and therefore <hi>without reſpect of Perſons judgeth every Man's Work.</hi> He is not biaſſed by any partial or corrupt Affections, or ſwayed by any particular reſpects. He dares not favour the unrighteous Cauſe of a Friend, or refuſe to interpoſe his Authority to relieve an injured Enemy. He doth not connive at the Oppreſſions of his own Servants or Officers, or <hi>juſtifie the wicked for reward.</hi> Gold hath no Weight in the Balance of Juſtice when a religious Man holdeth it. He <hi>takes no Bribes to blind his Eyes, no Gifts to pervert the Ways of Judgment, nor regardeth the rich more than the poor.</hi> All other Conſiderations are impertinent and inſignificant to him, beſide the Right and Reaſon of the Caſe, or the real Merits of the Perſon. He endeavours to make him<g ref="char:EOLhyphen"/>ſelf
+<pb n="17" facs="tcp:41376:9"/> 
+               <hi>a terrour to evil-doers, and a praiſe to them that do well,</hi> of what Party or Profeſſion, of what Quality or Degree ſoever they are. And Laws are never ſo likely to ac<g ref="char:EOLhyphen"/>compliſh thoſe good Ends for which they were made, as when they are thus equally and impartially execu<g ref="char:EOLhyphen"/>ted. And from whom can you expect this, but only from Religious Magiſtrates, ſuch as Fear God, and Hate Covetouſneſs?</p>
+            <p>
+               <hi>Thirdly,</hi> A Religious Man in <hi>Authority,</hi> will per<g ref="char:EOLhyphen"/>form all the Exerciſes of his Office moſt diligently. St. <hi>Paul</hi> particularly requireth of <hi>him that ruleth,</hi> that he do it <hi>with diligence,</hi> Rom. xii. 8. And the Religi<g ref="char:EOLhyphen"/>ous Magiſtrate will be ſure not to fail in his Obedience to this Command. That he may be the <hi>Minister of God</hi> effectually <hi>for</hi> the People's <hi>good,</hi> he will <hi>attend con<g ref="char:EOLhyphen"/>tinually on this very thing.</hi> He hath ſuch a conſtant awful ſenſe of God upon his Mind, that he dareth not be <hi>ſloathful in</hi> his <hi>buſineſs,</hi> or <hi>do the work of the Lord negligently.</hi> He is ſuch a great and hearty Friend to the Publick Good, that he cannot be ſluggiſh or in<g ref="char:EOLhyphen"/>different, or ſoon <hi>weary</hi> or <hi>faint</hi> in the purſuit of it. He is not ſoftened with Luxury, indiſpoſed by Intem<g ref="char:EOLhyphen"/>perance, or diverted by the Service of any ſinful Luſt, like thoſe great Men, the Prophet <hi>Amos</hi> mentioneth, <note place="margin">Amos vi. 6.</note> 
+               <hi>who lived at Eaſe in Zion, who drink Wine in Bowles, who drink and forget the Law,</hi> and are not <hi>concerned for the</hi> 
+               <note place="margin">Prov. xxxi. 5.</note> 
+               <hi>affliction of Joſeph,</hi> diſpoſed, or at leiſure to Redreſs the Grievances of the People. He hath too great a regard to the Glory of God, and the Intereſt of Piety and Virtue, careleſly or purpoſely to decline, or hea<g ref="char:EOLhyphen"/>vily or negligently to perform, thoſe Exerciſes of his Office, which are ſo highly ſerviceable to the advanc<g ref="char:EOLhyphen"/>ing of them. How happy then muſt that People be,
+<pb n="18" facs="tcp:41376:10"/> where ſuch <hi>Righteous</hi> Men <hi>are in Authority,</hi> Men that make a Conſcience of diligently imploying their Time, and Care, and Study, and Endeavours for the Publick Benefit, in performing all the Exerciſes of thoſe high and uſeful Callings they are advanced to?</p>
+            <p>
+               <hi>Fourthly,</hi> The Religious Man <hi>in Authority</hi> will per<g ref="char:EOLhyphen"/>form all the exerciſes of his Office moſt Courageouſly. Religion inſpires a Magiſtrate with undaunted Zeal and Courage, and actuateth all the Vigours of his Soul in doing his Duty. <hi>In the fear of the Lord is ſtrong con<g ref="char:EOLhyphen"/>fidence,</hi> 
+               <note place="margin">Prov. xiv. 26. Prov. xxviii. 1.</note> ſaith <hi>Solomon,</hi> and <hi>the Righteous is bold as a Lyon,</hi> he feareth the Face of no Man, neither the Threats of the Mighty, nor the Cenſures of the People, whilſt he is acting and labouring for his God. He <hi>loveth God with all his Heart,</hi> and preferreth the Publick be<g ref="char:EOLhyphen"/>fore any Private Intereſt, and therefore cannot be Cold or Cowardly, in ſerving God or doing Publick Good. He is <hi>of good Courage, and behaveth himſelf Valiantly</hi> 
+               <note place="margin">1 Chron. xix. 13.</note> 
+               <hi>for his People, and for the Cities of his God.</hi> He dares perform whatever the Duty of his Place requireth of him. This one Conſideration, that it is his Duty, weigheth down all the Danger, and Difficulties, and Oppoſition he is to Conflict with. He is not abaſhed with the ſenſe of his own guilt, when he ſhould pu<g ref="char:EOLhyphen"/>niſh an evil doer. He hath the teſtimony of a good Conſcience, which is an <hi>iron Pillar, a brazen Wall,</hi> an invincible Defence, againſt all the Miſchiefs and Reproaches the faithful diſcharge of his Office can ex<g ref="char:EOLhyphen"/>poſe him to. He hath a conſtant regard to that <hi>recom<g ref="char:EOLhyphen"/>pence of the reward, the joy that is ſet before him,</hi> and this giveth him Spirit and Courage to bear up againſt all the Batteries of Temptation. He is <hi>ſtrong in the Lord, and in the power of his might,</hi> continually fetching down
+<pb n="19" facs="tcp:41376:10"/> holy Fire from Heaven, by fervent Prayers and Sup<g ref="char:EOLhyphen"/>plications, to inflame his Courage, and animate his Reſolution in doing all that is to be done by him. He hath a great Aſſurance of the Divine Protection and Aſſiſtance, and therefore <hi>dealeth Courageouſly,</hi> becauſe <note place="margin">2 Chron. xix. 11.</note> he knoweth that the <hi>Lord will be with the good.</hi> How great then muſt the Happineſs of that People be, where ſuch <hi>Righteous</hi> Men <hi>are in Authority,</hi> Men that will be always endeavouring the advancement of it, with ſuch irreſiſtible Zeal and Courage?</p>
+            <p>
+               <hi>Fifthly,</hi> The Religious Man in Authority will per<g ref="char:EOLhyphen"/>form all the exerciſes of his Office moſt Becomingly. He is the moſt fit and proper Perſon to be ſo imploy<g ref="char:EOLhyphen"/>ed. His own practice doth recommend and inforce his Endeavours for ſuppreſſing of Wickedneſs, and the encouraging of Virtue and Religion.</p>
+            <p>It looks like Envy, or Jeſt, or Craft, in a Vicious Man, to attempt the puniſhing of that he will not for<g ref="char:EOLhyphen"/>bear, and the encouraging that he will not practice himſelf. And how little good ſucceſs can be ex<g ref="char:EOLhyphen"/>pected from ſuch Mens exerciſe of Authority? But when a Religious Man is thus employed, he will be thought to act from a Principle of Conſcience, and an earneſt regard to the People's Good. His own exemplary Virtue will beget a great Venerati<g ref="char:EOLhyphen"/>on and Affection for his Perſon, and that will add great Weight and Authority to all he doth. There appeareth ſomething very kind and obliging in his endeavours, to propagate that he ſo much values, and chooſes for himſelf, and to reſtrain Men from thoſe Vices he is ſo zealous to purge out of his own Life. So that if we conſider, in what an advanta<g ref="char:EOLhyphen"/>geous manner the Religious Man doth exerciſe his
+<pb n="20" facs="tcp:41376:11"/> Authority for the effectual promoting the Publick Good, we cannot but conclude, that when ſuch Men <hi>are in Authority</hi> there muſt needs be very great cauſe of <hi>rejoycing.</hi> This will be yet farther manifeſt by ſhewing</p>
+            <p>
+               <hi>Fourthly,</hi> That great Bleſſings are derived upon the People, for the ſake, and by the interceſſion of Religious Magiſtrates. What Men are ſo qualified to <hi>ſtand in the Gap,</hi> and to <hi>turn away Wrath</hi> from the People, as a Religious <hi>Moſes,</hi> ſuch <hi>Righteous</hi> Men <hi>in Authority?</hi> How <hi>much</hi> will their <hi>fervent prayers avail</hi> with God? How prevailing will their intereſt in their People's Happineſs be, for the procuring Pub<g ref="char:EOLhyphen"/>lick Bleſſings upon them? The <hi>Jews</hi> were generally proſperous or unhappy, according as their Gover<g ref="char:EOLhyphen"/>nours were Righteous or Wicked: They received great Favours and Deliverances, and ſuffered great Puniſhments and Calamities for their ſakes. There is nothing more acceptable to God than the faithful Execution of the Magiſtrate's Office, which Religi<g ref="char:EOLhyphen"/>on doth effectually oblige him to. <hi>To do Juſtice and Judgment is more acceptable to God than Sacrifice,</hi> Prov. xxi. 3. The <hi>ſtaying of the Plague from Iſrael</hi> is attri<g ref="char:EOLhyphen"/>buted, <note place="margin">Num. xxv. 6, 8, 11. Pſal. cvi. 30.</note> by God himſelf, to the Zeal of <hi>Phinehas</hi> in <hi>ex<g ref="char:EOLhyphen"/>ecuting Judgment,</hi> without any notice taken of the People's Humiliation, their <hi>weeping before the door of the Tabernacle of the Congregation.</hi> One Religious Ma<g ref="char:EOLhyphen"/>giſtrate <hi>executing Judgment</hi> might have ſaved the great City <hi>Jeruſalem, Jer.</hi> 5. 1. <hi>If ye can find a Man,</hi> ſaith God to them, <hi>if there be any that executeth Judg<g ref="char:EOLhyphen"/>ment and ſeeketh the Truth, I will pardon it.</hi> If now we lay all theſe things together, they will ſuffi<g ref="char:EOLhyphen"/>ciently
+<pb n="21" facs="tcp:41376:11"/> clear the Truth of this Propoſition, <hi>That Re<g ref="char:EOLhyphen"/>ligious Magiſtrates do contribute very much to the general Happineſs of a People.</hi> I proceed now</p>
+            <p>
+               <hi>Secondly,</hi> To make ſome ſeaſonable Application of it. From hence we may learn</p>
+            <p>
+               <hi>Firſt,</hi> That Religion and Piety are chiefly to be regarded in the Choice of Magiſtrates; nothing being more neceſſary or uſeful, to make them effe<g ref="char:EOLhyphen"/>ctual Inſtruments of promoting the Publick Good. This was the reaſon of that Advice of <hi>Jethro</hi> to his Son in Law <hi>Moſes, Exod.</hi> xviii. 21. <hi>Thou ſhalt pro<g ref="char:EOLhyphen"/>vide out of all the People, able Men, ſuch as fear God and hate Covetouſneſs, and place ſuch over them, and let them Judge the People at all times.</hi> The happy State of this City then is very much in your own power, becauſe the Choice of your Magiſtrates is ſo, upon which it ſo very much depends. And if, laying aſide all reſpect to private Intereſts or Parties, you would always make this your principal Aim in be<g ref="char:EOLhyphen"/>ſtowing, and Voting into Offices, that <hi>Righteous</hi> Men might be <hi>in Authority,</hi> you would certainly have great reaſon to rejoyce in the happy Fruits of their Intereſt with God, and their Labours for the Pub<g ref="char:EOLhyphen"/>lick Good.</p>
+            <p>
+               <hi>Secondly,</hi> We may alſo learn from what hath been ſaid, That we ought to give great Honour and Re<g ref="char:EOLhyphen"/>ſpect to Religious Magiſtrates, who are <hi>Miniſters of God for</hi> ſo much <hi>good,</hi> and Inſtruments of convey<g ref="char:EOLhyphen"/>ing ſo great Benefits to us. <hi>Tertullus</hi> his Language, when it is directed to a good Magiſtrate, doth but
+<pb n="22" facs="tcp:41376:12"/> expreſs the due ſenſe we ought to have of our Ob<g ref="char:EOLhyphen"/>ligations to him. <hi>Seeing that by thee we enjoy great</hi> 
+               <note place="margin">Act. xxiv. 2, 3.</note> 
+               <hi>quietneſs, and that very worthy deeds are done unto this Nation by thy Providence, we accept it always, and in all places with all thankfulneſs.</hi> We ſhould heartily Pray, eſpecially, for our <hi>Righteous</hi> Magiſtrates, chear<g ref="char:EOLhyphen"/>fully render them all their Dues, zealouſly vindicate them from all unjuſt Cenſures and Reproaches, and confer all we can to their Support, and Eaſe, and Comfort, under that load of Care and Toil they ſuſtain for the Publick Good.</p>
+            <p>
+               <hi>Thirdly,</hi> From hence alſo we may learn, That a Good Man ſhould not be too obſtinate in refu<g ref="char:EOLhyphen"/>ſing the Office of a Magiſtrate, when by the Pro<g ref="char:EOLhyphen"/>vidence of God, by the Favour of the Prince, or by the Election of the People he is called to it. The conſideration of that Publick Good he is qua<g ref="char:EOLhyphen"/>lified to promote by it, ſhould weigh more with him, than the Care or Labour, the Charge or Cen<g ref="char:EOLhyphen"/>ſures it may bring upon him.</p>
+            <p>
+               <hi>Fourthly,</hi> I ſhall Apply what hath been ſaid in a word of Exhortation to thoſe that are in Autho<g ref="char:EOLhyphen"/>rity; That they would approve themſelves Religi<g ref="char:EOLhyphen"/>ous and Good Men, by a due Exerciſe of the ſe<g ref="char:EOLhyphen"/>veral parts of their Office, by being diligent and courageous in a prudent and impartial Execution of thoſe Laws; which <hi>are made for the puniſhment of Wickedneſs and Vice, and the maintenance of true Re<g ref="char:EOLhyphen"/>ligion and Virtue.</hi> For by this means it is that the <hi>Righteous in Authority</hi> do make their People Happy. And for the inforcing of this Exhortation, I ſhall
+<pb n="23" facs="tcp:41376:12"/> lay before you theſe following Arguments for your Conſideration.</p>
+            <p>
+               <hi>First,</hi> Conſider the neceſſity of ſuch a faithful and diligent diſcharge of publick Offices, in order to your eſcaping <hi>the Wrath to come,</hi> even <hi>the greater damnation.</hi> Your Talents are larger, and the Im<g ref="char:EOLhyphen"/>provement of them of higher conſequence to the Honour of God, and to the Good of Mankind than other Mens; and as this doth advance your Ob<g ref="char:EOLhyphen"/>ligation to Diligence and Induſtry, ſo it will ag<g ref="char:EOLhyphen"/>gravate the Neglect, inflame the Reckoning, and increaſe the Damnation of the <hi>ſlothful and unpro<g ref="char:EOLhyphen"/>fitable Servant.</hi> In ſuch caſes will be verified that ſaying of the Author of the Book of <hi>Wiſdom, Sap.</hi> vi. 5, 6. <hi>A ſharp Judgment ſhall be to them that are in high places; for Mercy will ſoon pardon the mean<g ref="char:EOLhyphen"/>eſt, but mighty Men ſhall be mightily tormented. <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>to</hi> You <hi>much is given,</hi> and of You <hi>much will be re<g ref="char:EOLhyphen"/>quired,</hi> in that day when, <hi>without reſpect of Per<g ref="char:EOLhyphen"/>ſons, God will judge every Man according to his Works:</hi> when <hi>the Small and Great</hi> ſhall ſtand before God; when the Magiſtrate himſelf muſt come down to the Bar, and give an account of his Stewardſhip to an impartial and inflexible Judge, who will have no conſideration of his former Wealth or Grandeur, of the Titles he bore, or the Preferments he en<g ref="char:EOLhyphen"/>joyed, or the high Places to which he was ad<g ref="char:EOLhyphen"/>vanced; but of <hi>his Works,</hi> of his faithfulneſs and diligence in executing the great Truſt he repoſed in Him, and performing that publick Service he called him to. And <hi>then ſhall the unprofitable Ser<g ref="char:EOLhyphen"/>vant,</hi> of what Degree or Quality ſoever he was,
+<pb n="24" facs="tcp:41376:13"/> 
+               <hi>be cast into outer darkneſs, there ſhall be weeping and gnaſhing of Teeth.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> Conſider, The great pleaſure that will attend the faithful and induſtrious diſcharge of your high and honourable Callings. The teſtimony of your Conſcience that you have done your Duty, eſpecially in ſo difficult and uſeful a Station, will be a <hi>continual Feaſt,</hi> a Pleaſure which no ſenſual Delights can equal, no Adverſity extinguiſh, no outward Violence, no Changes or Revolutions can rob you of. What a noble Satisfaction will it be to reflect, upon all the happy fruits of your In<g ref="char:EOLhyphen"/>duſtry, the Glory you have brought to God, and the Good you have done to Men, how high<g ref="char:EOLhyphen"/>ly inſtrumental you have been to the Peace and Safety, the Proſperity and Reformation of that Peo<g ref="char:EOLhyphen"/>ple committed to your Care and Government? This will give you of the Joy of <hi>Angels,</hi> thoſe heavenly <hi>Ministers of God for our good;</hi> yea of the greateſt pleaſure of God himſelf, who chiefly delighteth in <hi>exerciſing loving-kindneſs upon Earth,</hi> and doing good to Men. What an aſſured Hope, what a delightful Proſpect will it give you, of the Glory and Hap<g ref="char:EOLhyphen"/>pineſs <hi>reſerved in Heaven for you,</hi> What an un<g ref="char:EOLhyphen"/>ſpeakable Comfort and Refreſhment will it be in the hour of Death, when you muſt part with all your Wealth, be deveſted of all your Pomp, re<g ref="char:EOLhyphen"/>ſign all your Preferments, and yield up your Bo<g ref="char:EOLhyphen"/>dies to Duſt and Worms; then to be able to ſay with St. <hi>Paul,</hi> that you <hi>have fought the good fight, and finiſhed your Courſe,</hi> and faithfully <hi>ſerved God and your Generation?</hi> With what Confidence then
+<pb n="25" facs="tcp:41376:13"/> may you look up to God, with what Peace and Pleaſure may you give up your Souls to him, <hi>in hope of Eternal Life which God that cannot Lye hath promiſed</hi> to all his <hi>good and faithful Servants? Mark the perfect Man, and behold the <g ref="char:V">Ʋ</g>pright; for the End of that Man is Peace,</hi> Pſal. xxxvii. 37.</p>
+            <p>
+               <hi>Thirdly,</hi> Conſider, How much the faithful and zealous diſcharge of the Magiſtrate's Office will advance your Honour and Reputation. It is not Mens great Offices, but the faithful exerciſe of them that maketh them truly Honourable. To have great Opportunities and great Obligations to do publick Good, as Men <hi>in Authority</hi> have, and through ſloath or meanneſs of Spirit, through Fear or any ſelfiſh regards to neglect them, muſt needs expoſe them to the Scorn and Indignation of the People. Every one will grudge to ſee ſuch <hi>a price in the hand of thoſe that have not a Heart to uſe it.</hi> But thoſe that are diligent and zealous, in doing all the good Offices their Authority qualifieth them for, and obligeth them to perform; Thoſe Magiſtrates by whoſe Care, and Zeal, and Induſtry, our Pro<g ref="char:EOLhyphen"/>perties and Poſſeſſions are ſecured, our Rights and Priviledges maintained, our Perſons defended, our Peace preſerved, the Poor imployed or relieved, Religion advanced, and Wickedneſs ſuppreſſed; ſuch Men, ſuch great, ſuch publick Benefactors, will be honoured of God and Men; They will be <hi>as Signets on God's Right Hand,</hi> and <hi>remembred when he maketh up his Jewels;</hi> the <hi>excellent ones upon Earth, in the ſight of God of great price.</hi> Every Man will think them worthy of that Power
+<pb n="26" facs="tcp:41376:14"/> and Authority, which is ſo zealouſly and effectually employed by them to ſuch beneficial purpoſes. <hi>The Ear that heareth them bleſſeth them, and the Eye that ſee<g ref="char:EOLhyphen"/>eth them beareth witneſs to them;</hi> they are every where <note place="margin">Job xxix. 11.</note> extolled and praiſed, and ſecure a great, and good, and laſting Reputation. Their very Graves will be perſumed, their Works will praiſe them in the Duſt, and the <hi>generations to come will call them bleſſed.</hi> Such Righteous Men, eſpecially <hi>Righteous Men in Autho<g ref="char:EOLhyphen"/>rity, will be had in everlasting remembrance.</hi>
+            </p>
+            <p>
+               <hi>Fourthly,</hi> Conſider, The glorious reward which God hath prepared in the other World for all ſuch <hi>good and faithful Servants.</hi> Your Work is great on Earth, and <hi>your Reward will be great in Heaven.</hi> The Lord himſelf hath ſaid <hi>ye are Gods;</hi> He hath given you of his Power and Authority, and <hi>ſet you to Judge for him</hi> upon Earth; and if you act for him faithfully and diligently, with Zeal and Courage, he will make you partakers of his Nature and Glory, his Joy and Happi<g ref="char:EOLhyphen"/>neſs in a degree far beyond what you can now con<g ref="char:EOLhyphen"/>ceive, and ye ſhall be like God in Heaven.</p>
+            <p>The faithful improvement of thoſe more rich, and numerous, and uſeful Talents you are intruſted with, will intitle you to a proportionable reward in the great day of recompence. Your temporal Honours and Preferments cannot follow you into the other World; but the Service you do to God and his People by virtue of them will, and obtain for you, from a merciful God, <hi>a far more exceeding and eternal weight of Glory.</hi> It is to you God hath given the <hi>ten Talents,</hi> and, if you make a due improvement of them, to you
+<pb n="27" facs="tcp:41376:14"/> he will pronounce that bleſſed Sentence, <hi>Well done ye good and faithful Servants, have ye Authority over ten Ci<g ref="char:EOLhyphen"/>ties.</hi> He will advance you to the higheſt rank of <hi>Saints in Light,</hi> among the chiefeſt Favourites of the King of Heaven, where you will ſit upon unmoveable Thrones, and ſhine with the brighteſt Rayes of Divine Glory.</p>
+            <p>What then remains, <hi>but that we all make our earneſt Addreſſes to God, that he would continually ſupply this great City with ſuch Righteous and Religious Magiſtrates, as may faithfully and diligently imploy their Power and Authority, to the Honour of God, the Intereſt of Religion and Virtue, and the great and general good of this famous Corporation, that ſo all the</hi> People <hi>may</hi> rejoyce, <hi>and the worthy Inſtru<g ref="char:EOLhyphen"/>ments of our Happineſs may be loved and honoured whilſt they live, and unſpeakably happy when they die.</hi> Amen.</p>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:41376:15"/>
+            <head>
+               <hi>Some Books Printed for</hi> B. Aylmer, <hi>at the</hi> Three Pigeons <hi>over againſt the</hi> Royal Exchange <hi>in</hi> Cornhill.</head>
+            <p>THE Works of the Moſt Reverend Dr. <hi>John Tillot<g ref="char:EOLhyphen"/>ſon,</hi> late Lord Archbiſhop of <hi>Canterbury,</hi> contain<g ref="char:EOLhyphen"/>ing Fifty four Sermons and Diſcourſes on Several Occa<g ref="char:EOLhyphen"/>ſions; together with the Rule of Faith. Being all that were publiſhed by his Grace himſelf, and now collected into one Volume: To which is added an Alphabetical Table of the Principal Matters. <hi>Price</hi> 20 s.</p>
+            <p>Six Sermons; <hi>viz.</hi> Of Stedfaſtneſs in Religion. Of Family Religion. Of Education of Children. Of the Advantages of an Early Piety. By his Grace, <hi>John,</hi> late Archbiſhop of <hi>Canterbury.</hi> In 12<hi rend="sup">o</hi>. <hi>price</hi> 18 <hi>d.</hi>
+            </p>
+            <p>A Perſwaſive to frequent Communion in the Holy Sacrament of the Lord's Supper; Alſo by his Grace, <hi>John,</hi> late Archbiſhop of <hi>Canterbury.</hi> In 12<hi rend="sup">o</hi>. Bound 6<hi>d.</hi> or Stitch'd in 8<hi rend="sup">o</hi>. 3<hi>d.</hi> or ſomething Cheaper to thoſe that are ſo Charitable to give away Numbers.</p>
+            <p>The Holy Bible, containing the Old Teſtament and the New; with Annotations and very exact Parallel Scriptures. To which is Annex'd the Harmony of the Goſpels; as alſo the Reduction of the <hi>Jewiſh</hi> Weights, Coins and Meaſures, to our <hi>Engliſh</hi> Standards. And a Ta<g ref="char:EOLhyphen"/>ble of the Promiſes in Scripture. By <hi>Samuel Clark,</hi> Mi<g ref="char:EOLhyphen"/>niſter of the Goſpel. Printed in Folio on a very Fair Let<g ref="char:EOLhyphen"/>ter;
+<gap reason="missing" extent="1+ pages">
+                  <desc>〈1… pages missing〉</desc>
+               </gap>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
